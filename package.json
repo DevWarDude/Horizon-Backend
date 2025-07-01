@@ -1,0 +1,17 @@
+{
+  "name": "horizon-backend",
+  "version": "1.0.0",
+  "description": "Backend for sending and verifying codes",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.5",
+    "cors": "^2.8.5",
+    "resend": "^2.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
